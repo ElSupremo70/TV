@@ -4,7 +4,7 @@
 <item>
 <title>001 | OLYMPIC CHANNEL</title>
 <link>ignoreme</link>
-<externallink>https://raw.githubusercontent.com/boomski/TV/master/olympicchannel/index</externallink>
+<externallink>https://raw.githubusercontent.com/ElSupremo/TV/master/olympicchannel/index</externallink>
 <fanart>https://i.imgur.com/lzQ7X7K.png</fanart>
 </item>    
  
@@ -23,7 +23,7 @@
 <item>
 <title>004 | SPORTZONLINE</title>
 <link>ignoreme</link>
-<externallink>https://raw.githubusercontent.com/boomski/TV/master/sportzonline/index</externallink>
+<externallink>https://raw.githubusercontent.com/ElSupremo/TV/master/sportzonline/index</externallink>
 <fanart>https://i.imgur.com/PgzH5Zw.jpg</fanart>
 </item> 
  
@@ -154,7 +154,7 @@ def GetLSProData(page_data,Cookie_Jar,m):# streamwatcher2013
 <item>
 <title>997 | SPORTACENTRS</title>
 <link>ignoreme</link>
-<externallink>https://raw.githubusercontent.com/boomski/TV/master/sportacentrs/index</externallink>
+<externallink>https://raw.githubusercontent.com/ElSupremo/TV/master/sportacentrs/index</externallink>
 <fanart>https://i.imgur.com/HLEOo0t.png</fanart>
 </item>   
 
@@ -167,7 +167,7 @@ def GetLSProData(page_data,Cookie_Jar,m):# streamwatcher2013
 <item>
 <title>999 | 60FPS.LIVE</title>
 <link>ignoreme</link>
-<externallink>https://raw.githubusercontent.com/boomski/TV/master/60fps</externallink>
+<externallink>https://raw.githubusercontent.com/ElSupremo/TV/master/60fps</externallink>
 <thumbnail>https://i.imgur.com/ZWdrGYj.png</thumbnail> 	
 <fanart>https://i.imgur.com/zOv7bEw.jpg</fanart>  
 </item>   
