@@ -13,13 +13,13 @@
         <name>getunpacked</name>
         <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*m3u8.*)')</expres>
         <page>https:$doregex[lacasitos]</page>
-        <referer>https://sportzonline.co/channels/hd/hd1.php</referer>
+        <referer>https://v3.sportzonline.to/channels/hd/hd1.php</referer>
     </regex>
     <regex>
         <name>lacasitos</name>
         <expres><![CDATA[iframe.+?src="(.+?)"]]></expres>
-        <page>https://sportzonline.co/channels/hd/hd1.php</page>
-        <referer>https://sportzonline.co/channels/hd/hd1.php</referer>
+        <page>https://v3.sportzonline.to/channels/hd/hd1.php</page>
+        <referer>https://v3.sportzonline.to/channels/hd/hd1.php</referer>
     </regex>
 </item> 
    
@@ -36,13 +36,13 @@
         <name>getunpacked</name>
         <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*m3u8.*)')</expres>
         <page>https:$doregex[lacasitos]</page>
-        <referer>https://sportzonline.co/channels/hd/hd2.php</referer>
+        <referer>https://v3.sportzonline.to/channels/hd/hd2.php</referer>
     </regex>
     <regex>
         <name>lacasitos</name>
         <expres><![CDATA[iframe.+?src="(.+?)"]]></expres>
-        <page>https://sportzonline.co/channels/hd/hd2.php</page>
-        <referer>https://sportzonline.co/channels/hd/hd2.php</referer>
+        <page>https://v3.sportzonline.to/channels/hd/hd2.php</page>
+        <referer>https://v3.sportzonline.to/channels/hd/hd2.php</referer>
     </regex>
 </item> 
     
@@ -59,13 +59,13 @@
         <name>getunpacked</name>
         <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*m3u8.*)')</expres>
         <page>https:$doregex[lacasitos]</page>
-        <referer>https://sportzonline.co/channels/hd/hd3.php</referer>
+        <referer>https://v3.sportzonline.to/channels/hd/hd3.php</referer>
     </regex>
     <regex>
         <name>lacasitos</name>
         <expres><![CDATA[iframe.+?src="(.+?)"]]></expres>
-        <page>https://sportzonline.co/channels/hd/hd3.php</page>
-        <referer>https://sportzonline.co/channels/hd/hd3.php</referer>
+        <page>https://v3.sportzonline.to/channels/hd/hd3.php</page>
+        <referer>https://v3.sportzonline.to/channels/hd/hd3.php</referer>
     </regex>
 </item>     
   
@@ -82,13 +82,13 @@
         <name>getunpacked</name>
         <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*m3u8.*)')</expres>
         <page>https:$doregex[lacasitos]</page>
-        <referer>https://sportzonline.co/channels/hd/hd4.php</referer>
+        <referer>https://v3.sportzonline.to/channels/hd/hd4.php</referer>
     </regex>
     <regex>
         <name>lacasitos</name>
         <expres><![CDATA[iframe.+?src="(.+?)"]]></expres>
-        <page>https://sportzonline.co/channels/hd/hd4.php</page>
-        <referer>https://sportzonline.co/channels/hd/hd4.php</referer>
+        <page>https://v3.sportzonline.to/channels/hd/hd4.php</page>
+        <referer>https://v3.sportzonline.to/channels/hd/hd4.php</referer>
     </regex>
 </item> 
   
@@ -105,13 +105,13 @@
         <name>getunpacked</name>
         <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*m3u8.*)')</expres>
         <page>https:$doregex[lacasitos]</page>
-        <referer>https://sportzonline.co/channels/hd/hd5.php</referer>
+        <referer>https://v3.sportzonline.to/channels/hd/hd5.php</referer>
     </regex>
     <regex>
         <name>lacasitos</name>
         <expres><![CDATA[iframe.+?src="(.+?)"]]></expres>
-        <page>https://sportzonline.co/channels/hd/hd5.php</page>
-        <referer>https://sportzonline.co/channels/hd/hd5.php</referer>
+        <page>https://v3.sportzonline.to/channels/hd/hd5.php</page>
+        <referer>https://v3.sportzonline.to/channels/hd/hd5.php</referer>
     </regex>
 </item>     
  
@@ -128,13 +128,13 @@
         <name>getunpacked</name>
         <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*m3u8.*)')</expres>
         <page>https:$doregex[lacasitos]</page>
-        <referer>https://sportzonline.co/channels/hd/hd6.php</referer>
+        <referer>https://v3.sportzonline.to/channels/hd/hd6.php</referer>
     </regex>
     <regex>
         <name>lacasitos</name>
         <expres><![CDATA[iframe.+?src="(.+?)"]]></expres>
-        <page>https://sportzonline.co/channels/hd/hd6.php</page>
-        <referer>https://sportzonline.co/channels/hd/hd6.php</referer>
+        <page>https://v3.sportzonline.to/channels/hd/hd6.php</page>
+        <referer>https://v3.sportzonline.to/channels/hd/hd6.php</referer>
     </regex>
 </item>      
  <item>
@@ -150,13 +150,13 @@
         <name>getunpacked</name>
         <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*m3u8.*)')</expres>
         <page>https:$doregex[lacasitos]</page>
-        <referer>https://sportzonline.co/channels/hd/hd7.php</referer>
+        <referer>https://v3.sportzonline.to/channels/hd/hd7.php</referer>
     </regex>
     <regex>
         <name>lacasitos</name>
         <expres><![CDATA[iframe.+?src="(.+?)"]]></expres>
-        <page>https://sportzonline.co/channels/hd/hd7.php</page>
-        <referer>https://sportzonline.co/channels/hd/hd7.php</referer>
+        <page>https://v3.sportzonline.to/channels/hd/hd7.php</page>
+        <referer>https://v3.sportzonline.to/channels/hd/hd7.php</referer>
     </regex>
 </item>        
  
@@ -173,13 +173,13 @@
         <name>getunpacked</name>
         <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*m3u8.*)')</expres>
         <page>https:$doregex[lacasitos]</page>
-        <referer>https://sportzonline.co/channels/bra/br1.php</referer>
+        <referer>https://v3.sportzonline.to/channels/bra/br1.php</referer>
     </regex>
     <regex>
         <name>lacasitos</name>
         <expres><![CDATA[iframe.+?src="(.+?)"]]></expres>
-        <page>https://sportzonline.co/channels/bra/br1.php</page>
-        <referer>https://sportzonline.co/channels/bra/br1.php</referer>
+        <page>https://v3.sportzonline.to/channels/bra/br1.php</page>
+        <referer>https://v3.sportzonline.to/channels/bra/br1.php</referer>
     </regex>
 </item>  
  <item>
@@ -195,13 +195,13 @@
         <name>getunpacked</name>
         <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*m3u8.*)')</expres>
         <page>https:$doregex[lacasitos]</page>
-        <referer>https://sportzonline.co/channels/bra/br2.php</referer>
+        <referer>https://v3.sportzonline.to/channels/bra/br2.php</referer>
     </regex>
     <regex>
         <name>lacasitos</name>
         <expres><![CDATA[iframe.+?src="(.+?)"]]></expres>
-        <page>https://sportzonline.co/channels/bra/br2.php</page>
-        <referer>https://sportzonline.co/channels/bra/br2.php</referer>
+        <page>https://v3.sportzonline.to/channels/bra/br2.php</page>
+        <referer>https://v3.sportzonline.to/channels/bra/br2.php</referer>
     </regex>
 </item>  
     
@@ -218,13 +218,13 @@
         <name>getunpacked</name>
         <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*m3u8.*)')</expres>
         <page>https:$doregex[lacasitos]</page>
-        <referer>https://sportzonline.co/channels/bra/br3.php</referer>
+        <referer>https://v3.sportzonline.to/channels/bra/br3.php</referer>
     </regex>
     <regex>
         <name>lacasitos</name>
         <expres><![CDATA[iframe.+?src="(.+?)"]]></expres>
-        <page>https://sportzonline.co/channels/bra/br3.php</page>
-        <referer>https://sportzonline.co/channels/bra/br3.php</referer>
+        <page>https://v3.sportzonline.to/channels/bra/br3.php</page>
+        <referer>https://v3.sportzonline.to/channels/bra/br3.php</referer>
     </regex>
 </item>      
  
@@ -241,13 +241,13 @@
         <name>getunpacked</name>
         <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*m3u8.*)')</expres>
         <page>https:$doregex[lacasitos]</page>
-        <referer>https://sportzonline.co/channels/pt/sporttv1.php</referer>
+        <referer>https://v3.sportzonline.to/channels/pt/sporttv1.php</referer>
     </regex>
     <regex>
         <name>lacasitos</name>
         <expres><![CDATA[iframe.+?src="(.+?)"]]></expres>
-        <page>https://sportzonline.co/channels/pt/sporttv1.php</page>
-        <referer>https://sportzonline.co/channels/pt/sporttv1.php</referer>
+        <page>https://v3.sportzonline.to/channels/pt/sporttv1.php</page>
+        <referer>https://v3.sportzonline.to/channels/pt/sporttv1.php</referer>
     </regex>
 </item> 
     
@@ -264,13 +264,13 @@
         <name>getunpacked</name>
         <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*m3u8.*)')</expres>
         <page>https:$doregex[lacasitos]</page>
-        <referer>https://sportzonline.co/channels/pt/sporttv2.php</referer>
+        <referer>https://v3.sportzonline.to/channels/pt/sporttv2.php</referer>
     </regex>
     <regex>
         <name>lacasitos</name>
         <expres><![CDATA[iframe.+?src="(.+?)"]]></expres>
-        <page>https://sportzonline.co/channels/pt/sporttv2.php</page>
-        <referer>https://sportzonline.co/channels/pt/sporttv2.php</referer>
+        <page>https://v3.sportzonline.to/channels/pt/sporttv2.php</page>
+        <referer>https://v3.sportzonline.to/channels/pt/sporttv2.php</referer>
     </regex>
 </item> 
     
@@ -287,13 +287,13 @@
         <name>getunpacked</name>
         <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*m3u8.*)')</expres>
         <page>https:$doregex[lacasitos]</page>
-        <referer>https://sportzonline.co/channels/pt/sporttv3.php</referer>
+        <referer>https://v3.sportzonline.to/channels/pt/sporttv3.php</referer>
     </regex>
     <regex>
         <name>lacasitos</name>
         <expres><![CDATA[iframe.+?src="(.+?)"]]></expres>
-        <page>https://sportzonline.co/channels/pt/sporttv3.php</page>
-        <referer>https://sportzonline.co/channels/pt/sporttv3.php</referer>
+        <page>https://v3.sportzonline.to/channels/pt/sporttv3.php</page>
+        <referer>https://v3.sportzonline.to/channels/pt/sporttv3.php</referer>
     </regex>
 </item> 
 </items>
