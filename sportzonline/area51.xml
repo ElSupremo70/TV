@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items>
+<item>
+	<title>TEST WIGI</title>  
+	<thumbnail>https://i.postimg.cc/1zTnj1ZC/1.png</thumbnail>   
+    <link>$doregex[geturl]|user-agent=ipad&amp;referer=$doregex[lacasitos]</link>
+    <regex>
+        <name>geturl</name>
+        <expres>Clappr.Player[\w\W]*?(?:source|src|file):\s*[\'"]([^\'"]+)</expres>
+        <page>$doregex[getunpacked]</page>
+    </regex>
+    <regex>
+        <name>getunpacked</name>
+        <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*m3u8.*)')</expres>
+        <page>$doregex[lacasitos]</page>
+        <referer>https://wigilive.com/embed.php?id=live4</referer>
+    </regex>
+    <regex>
+        <name>lacasitos</name>
+        <expres><![CDATA[iframe.+?src='(.+?)']]></expres>
+        <page>https://wigilive.com/embed.php?id=live4</page>
+        <referer>https://wigilive.com/embed.php?id=live4</referer>
+    </regex>
+</item>
+<item>
+	<title>TEST TELERIUM</title>  
+	<thumbnail>https://i.postimg.cc/1zTnj1ZC/1.png</thumbnail>   
+    <link>$doregex[geturl]|user-agent=ipad&amp;referer=$doregex[lacasitos]</link>
+    <regex>
+        <name>geturl</name>
+        <expres>Clappr.Player[\w\W]*?(?:source|src|file):\s*[\'"]([^\'"]+)</expres>
+        <page>$doregex[getunpacked]</page>
+    </regex>
+    <regex>
+        <name>getunpacked</name>
+        <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*m3u8.*)')</expres>
+        <page>$doregex[lacasitos]</page>
+        <referer>https://wigilive.com/embed.php?id=live4T</referer>
+    </regex>
+    <regex>
+        <name>lacasitos</name>
+        <expres><![CDATA[iframe.+?src='(.+?)']]></expres>
+        <page>https://wigilive.com/embed.php?id=live4T</page>
+        <referer>https://wigilive.com/embed.php?id=live4T</referer>
+    </regex>
+</item>
+</items>
