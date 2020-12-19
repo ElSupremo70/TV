@@ -3,7 +3,7 @@
 <item>
 <title>SPORT | SPORTZONLINE HD1</title>  
 <thumbnail>https://i.postimg.cc/1zTnj1ZC/1.png</thumbnail>   
-    <link>$doregex[geturl]|user-agent=ipad&amp;referer=https:$doregex[lacasitos]</link>
+    <link>$doregex[geturl]|user-agent=ipad&amp;referer=https://wigistream.to/$doregex[lacasitos]</link>
     <regex>
         <name>geturl</name>
         <expres>Clappr.Player[\w\W]*?(?:source|src|file):\s*[\'"]([^\'"]+)</expres>
@@ -12,12 +12,12 @@
     <regex>
         <name>getunpacked</name>
         <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*m3u8.*)')</expres>
-        <page>https:$doregex[lacasitos]</page>
+        <page>https://wigistream.to/$doregex[lacasitos]</page>
         <referer>https://v3.sportzonline.to/channels/hd/hd1.php</referer>
     </regex>
     <regex>
         <name>lacasitos</name>
-        <expres><![CDATA[iframe.+?src="(.+?)"]]></expres>
+        <expres><![CDATA[iframe.+?src="\/\/wigistream.to\/(.+?)"]]></expres>
         <page>https://v3.sportzonline.to/channels/hd/hd1.php</page>
         <referer>https://v3.sportzonline.to/channels/hd/hd1.php</referer>
     </regex>
