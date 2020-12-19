@@ -3,7 +3,7 @@
 <item>
 <title>SPORT | SPORTZONLINE HD1</title>  
 <thumbnail>https://i.postimg.cc/1zTnj1ZC/1.png</thumbnail>   
-    <link>$doregex[geturl]|user-agent=ipad&amp;referer=https://wigistream.to/$doregex[lacasitos]</link>
+    <link>$doregex[geturl]|referer=https://wigistream.to/$doregex[lacasitos]</link>
     <regex>
         <name>geturl</name>
         <expres>Clappr.Player[\w\W]*?(?:source|src|file):\s*[\'"]([^\'"]+)</expres>
